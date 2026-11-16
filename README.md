@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @new2datasci
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning basics of Data Science 
-- 💞️ I’m looking to collaborate on ..well let me develop skills firsthand 
-- 📫 Drop me a message and I will get back to u when I am done with all regression models 
+### Hi, I'm Ruchi Thareja
 
-<!---
-new2datasci/new2datasci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Quantum information researcher (M2 Quantum Information, Sorbonne University) with 15+ years across software engineering, technology marketing and entrepreneurship.
+
+- 🔬 **Current project:** [Forecasting 2Q gate errors for noise-aware compilation on IBM Heron](https://github.com/ruchithareja/quantum-calibration-forecast): one year of calibration data from three 156-qubit IBM machines. A short, recency-weighted history predicts gate errors 20–27% better than the latest calibration.
+- 🔐 **Research:** decoy-state QKD (applied to VeriQloud's Qline product), quantum tokens, oblivious transfer
+- 🛠️ **Tools:** Python (NumPy, SciPy, pandas, PyTorch), Qiskit, Qiskit Runtime, Qiskit Aer
+- 📄 **Publication:** [Nonlocal Games and Quantum Correlations](https://arxiv.org/abs/2604.09458), arXiv:2604.09458
+- 🌍 English · French · Hindi
+
+📫 [LinkedIn]((https://www.linkedin.com/in/ruchi-thareja-76110a4/)) · ruchi.thareja@gmail.com
