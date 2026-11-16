@@ -8,4 +8,4 @@ Quantum information researcher (M2 Quantum Information, Sorbonne University) wit
 - 📄 **Publication:** [Nonlocal Games and Quantum Correlations](https://arxiv.org/abs/2604.09458), arXiv:2604.09458
 - 🌍 English · French · Hindi
 
-📫 [LinkedIn]((https://www.linkedin.com/in/ruchi-thareja-76110a4/)) · ruchi.thareja@gmail.com
+📫 [LinkedIn][https://www.linkedin.com/in/ruchi-thareja-76110a4/] · ruchi.thareja@gmail.com
